@@ -1,0 +1,126 @@
+body{
+    font-family: 'Roboto' ;
+    margin: 10px;
+}
+.name-color{
+    color: rgb(240, 11, 99);
+    font-size: 40px;
+    font-weight: 900;
+
+
+}
+p{
+    color: lightslategray;
+}
+#hello{
+    padding-top: 120px;
+}
+
+.anchor-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-image: linear-gradient( 45deg, rgb(226, 126, 165), rgb(241, 24, 169) );
+    border-radius: 5px;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.header-background{
+    background-image: url("images/header-bg.png");
+    background-repeat: none;
+    background-position: 100%;
+}
+.bibiography-background{
+    background-image: url("images/biography-bg.png");
+    background-repeat: none;
+    background-position: 100%;
+}
+#bibliography{
+    font-size: 30px;
+    padding-top: 120px;
+
+}
+.my-work{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 2%;
+}
+.my-work img{
+    width: 100%;
+}
+#my-latest-work{
+    text-align: center;
+    padding: 50px;
+    font-size: 40px;
+}
+.my-works{
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+.my-work-section{
+    background-image: url("images/latest-work-bg.png");
+    background-position: 100%;
+}
+.client{
+    text-align: center;
+    margin-bottom: 75px;
+
+}
+.client-contact{
+    text-align: center; 
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 30px 100px;
+    background-image: linear-gradient( 45deg, rgb(226, 126, 165), rgb(241, 24, 169) );
+    border-radius: 10px;
+}
+#client-email{
+    text-decoration: none;
+    color:white;
+}
+.email{
+    font-size: 40px;
+    font-weight: 300;
+
+}
+h5{
+    font-weight: 400;
+}
+.what-client-say{
+    background-image: url("images/footer-bg.png");
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+#client-saying{
+    font-size: 40px;
+    padding-bottom: 50px;
+
+}
+#recognition{
+    font-size: 12px;
+}
+h5{
+    padding: 0% 30%;
+    font-size: 15px;
+
+}
+footer{
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 30px;
+}
